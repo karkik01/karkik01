@@ -2,14 +2,14 @@
      GitHub Profile Header
 ========================== -->
 <h1 align="center">Krijesh Karki</h1>
-<h3 align="center">Full-Stack Developer • Cybersecurity-driven • Product builder</h3>
+<h3 align="center">Full-Stack Developer with CyberSecurity Mindset</h3>
 
 <p align="center">
   <code>secure-by-design</code> • <code>clean architecture</code> • <code>ship fast</code> • <code>solve real problems</code>
 </p>
 
 <p align="center">
-  <a href="https://www.homesphere.co.nz/" target="_blank" rel="noreferrer"><b>HomeSphere</b></a> •
+  <a href="https://www.homesphere.co.nz/" target="_blank" rel="noreferrer"><b>Building HomeSphere</b></a> •
   <a href="https://krijesh.vercel.app/" target="_blank" rel="noreferrer"><b>Portfolio</b></a> •
   <a href="https://krijesh.vercel.app/about" target="_blank" rel="noreferrer"><b>Experience</b></a> •
   <a href="mailto:itsmekrijesh@gmail.com" target="_blank" rel="noreferrer"><b>Email</b></a>
