@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/krijesh-karki-1686202aa/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="38" height="38"/>
   </a>
-  <a href="https://github.com/karkik01" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="38" height="38"/>
-  </a>
   <a href="mailto:itsmekrijesh@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="38" height="38"/>
   </a>
