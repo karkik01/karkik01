@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krijesh Karki</h1>
 <h3 align="center">Full Stack Developer with cybersecurity mindset.</h3>
 
-- 🔭 I’m currently working on [HomeSphere](www.homesphere.co.nz)
+- 🔭 I’m currently working on [HomeSphere](https://www.homesphere.co.nz/)
 
 - 🌱 I’m currently learning **Mobile App Development and AI Integration**
 
