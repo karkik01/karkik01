@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krijesh Karki</h1>
-<h3 align="center">Full-Stack Developer • Cybersecurity mindset • Building real products</h3>
+<h3 align="center">Full-Stack Developer with CyberSecurity Mindset</h3>
 
 <p align="center">
   🔭 Currently building <a href="https://www.homesphere.co.nz/" target="_blank" rel="noreferrer"><b>HomeSphere</b></a> <br/>
