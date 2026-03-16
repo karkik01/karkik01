@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://www.homesphere.co.nz/" target="_blank" rel="noreferrer"><b>Building HomeSphere</b></a> •
   <a href="https://krijesh.vercel.app/" target="_blank" rel="noreferrer"><b>Portfolio</b></a> •
-  <a href="https://krijesh.vercel.app/about" target="_blank" rel="noreferrer"><b>Experience</b></a> •
   <a href="mailto:itsmekrijesh@gmail.com" target="_blank" rel="noreferrer"><b>Email</b></a>
 </p>
 
