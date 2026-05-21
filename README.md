@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://krijesh.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://krijesh.tech/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:itsmekrijesh@gmail.com" target="_blank" rel="noreferrer">
