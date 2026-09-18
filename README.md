@@ -87,29 +87,80 @@ React · Node.js · MongoDB · REST APIs
 
 ---
 
-## Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,vite,nodejs,express,django,mongodb,git,github" alt="Technology stack" />
-</p>
-
-<p align="center">
-  React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Next.js · Node.js · Express · REST APIs · Django · MongoDB · Socket.IO · Git
-</p>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center" width="170"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,vite" alt="Frontend technologies" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database & Realtime</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      &nbsp;&nbsp; REST APIs · Socket.IO
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security</b></td>
+    <td align="left">
+      Cybersecurity fundamentals · Authentication & authorization · Networking basics
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,npm" alt="Development tools" />
+      &nbsp;&nbsp; Debugging · Testing · Deployment
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Foundational</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,java,c" alt="Foundational languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Beyond GitHub
 
 <p align="center">
-  <b>School HIVE Marketplace</b> was featured by <b>RNZ, PMN News and Unitec</b>.
+  <b>School HIVE Marketplace</b> was featured for its community-focused work improving access to affordable school items.
+</p>
+
+<p align="center">
+  <a href="https://www.rnz.co.nz/news/regions_local-democracy-reporting/578864/otara-rangatahi-lead-digital-solution-to-school-costs">
+    <img src="https://img.shields.io/badge/Read%20on-RNZ-111827?style=for-the-badge" alt="RNZ coverage" />
+  </a>
+  <a href="https://pmn.co.nz/read/local-democracy-reporting/tara-youth-lead-digital-solutions-to-school-uniforms-and-items">
+    <img src="https://img.shields.io/badge/Read%20on-PMN%20News-2563EB?style=for-the-badge" alt="PMN News coverage" />
+  </a>
+  <a href="https://www.unitec.ac.nz/computing-students-use-tech-skills-to-boost-education-access-for-local-communities/">
+    <img src="https://img.shields.io/badge/Read%20on-Unitec-7C3AED?style=for-the-badge" alt="Unitec coverage" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### Build something. Solve something. Ship it.
+### Build useful software. Think about the attack surface. Ship with security in mind.
 
 <a href="mailto:krijeshkarki@gmail.com?subject=Opportunity%20via%20GitHub&body=Hi%20Krijesh%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.%0A%0A">
   <img src="https://img.shields.io/badge/Start%20a%20conversation-krijeshkarki%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Krijesh" />
