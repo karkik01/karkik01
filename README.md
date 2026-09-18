@@ -16,8 +16,8 @@
   <a href="https://krijesh.tech/">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:krijeshkarki@gmail.com?subject=Opportunity%20via%20GitHub&body=Hi%20Krijesh%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.%0A%0A">
-    <img src="https://img.shields.io/badge/Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  <a href="https://krijesh.tech/contact">
+    <img src="https://img.shields.io/badge/Contact%20Me-2563EB?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
   </a>
 </div>
 
@@ -32,6 +32,8 @@
 ### Sip N Dip
 **Membership + loyalty platform**
 
+A digital platform for Sip N Dip customers to access the business, membership and loyalty services in one place.
+
 Member accounts, authentication, points, visit rewards and staff-side redemption.
 
 React · TypeScript · Django
@@ -43,6 +45,8 @@ React · TypeScript · Django
 
 ### Yak & Yeti
 **Ordering + kitchen workflow platform**
+
+A restaurant website and ordering system that connects customers, admin staff and the kitchen in one workflow.
 
 Online ordering connected to admin management and a kitchen display, with catering and enquiry flows.
 
@@ -59,6 +63,8 @@ React · TypeScript · Node.js · MongoDB
 ### School HIVE
 **Community marketplace**
 
+A marketplace for students and families to buy, sell and exchange school-related items within their communities.
+
 Authentication, user-to-user chat, listings, comments and admin tools.
 
 React · Node.js · MongoDB · Socket.IO
@@ -70,6 +76,8 @@ React · Node.js · MongoDB · Socket.IO
 
 ### Room Sewa
 **Property marketplace**
+
+A property marketplace where landlords can publish rentals and users can discover properties with location details.
 
 Authentication, property publishing, backend persistence and map/location functionality.
 
