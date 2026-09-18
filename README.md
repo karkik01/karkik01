@@ -16,7 +16,7 @@
   <a href="https://krijesh.tech/">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://krijesh.tech/contact">
+  <a href="https://krijesh.tech/#contact">
     <img src="https://img.shields.io/badge/Contact%20Me-2563EB?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
   </a>
 </div>
